@@ -1,9 +1,9 @@
-# Kodlama.io Odev1
+# The first project within the scope of Kodlama.io
 
-- İstediğiniz kadar sayı parametre alan ve bu sayıların asal olup olmadığını bulan program.
+- The program that takes as many number parameters as you want and finds out if these numbers are prime.
 
-- Parametre olarak girilen iki sayının arkadaş sayılar olup olmadığını bulan program.
+- A program that finds out if two numbers entered as parameters are friend numbers.
 
-- 1000'e kadarki tüm mükemmel sayıları listeleyen program.
+- The program that lists all the perfect numbers up to 1000.
 
-- 1000'e kadarki tüm asal sayıları listeleyen program.
+- The program that lists all prime numbers up to 1000.
